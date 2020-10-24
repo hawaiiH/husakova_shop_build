@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/huskova_shop_build/static/css/main.0f8efd41.chunk.css",
+    "main.js": "/huskova_shop_build/static/js/main.ad5c8d17.chunk.js",
+    "main.js.map": "/huskova_shop_build/static/js/main.ad5c8d17.chunk.js.map",
+    "runtime-main.js": "/huskova_shop_build/static/js/runtime-main.bfcab7f6.js",
+    "runtime-main.js.map": "/huskova_shop_build/static/js/runtime-main.bfcab7f6.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/huskova_shop_build/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a4d32964.chunk.js": "/huskova_shop_build/static/js/2.a4d32964.chunk.js",
+    "static/js/2.a4d32964.chunk.js.map": "/huskova_shop_build/static/js/2.a4d32964.chunk.js.map",
+    "index.html": "/huskova_shop_build/index.html",
+    "precache-manifest.7b6886199aaac672a1b7e8bd323021d7.js": "/huskova_shop_build/precache-manifest.7b6886199aaac672a1b7e8bd323021d7.js",
+    "service-worker.js": "/huskova_shop_build/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/huskova_shop_build/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.0f8efd41.chunk.css.map": "/huskova_shop_build/static/css/main.0f8efd41.chunk.css.map",
+    "static/js/2.a4d32964.chunk.js.LICENSE.txt": "/huskova_shop_build/static/js/2.a4d32964.chunk.js.LICENSE.txt",
+    "static/media/kolbasa.jpg": "/huskova_shop_build/static/media/kolbasa.12f0a705.jpg",
+    "static/media/spice.jpg": "/huskova_shop_build/static/media/spice.46980b89.jpg",
+    "static/media/spices-2.jpg": "/huskova_shop_build/static/media/spices-2.388a3bd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfcab7f6.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a4d32964.chunk.js",
+    "static/css/main.0f8efd41.chunk.css",
+    "static/js/main.ad5c8d17.chunk.js"
+  ]
+}
