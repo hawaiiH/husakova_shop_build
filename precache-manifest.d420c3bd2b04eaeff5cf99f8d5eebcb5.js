@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21f9d88f650af5cc9de54a56ab4d4c53",
+    "revision": "212ef093dab75af635c0fe74741c611e",
     "url": "/husakova_shop_build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/husakova_shop_build/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "e0488fdbcd82b9f811dc",
+    "revision": "5ac0ecfeb42ce34cd9f4",
     "url": "/husakova_shop_build/static/css/main.0f8efd41.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/husakova_shop_build/static/js/2.a4d32964.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0488fdbcd82b9f811dc",
-    "url": "/husakova_shop_build/static/js/main.5f867621.chunk.js"
+    "revision": "5ac0ecfeb42ce34cd9f4",
+    "url": "/husakova_shop_build/static/js/main.711f5d08.chunk.js"
   },
   {
     "revision": "06e7271f6fdc0fc2a828",
