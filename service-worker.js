@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/husakova_shop_build/precache-manifest.b4dcac894372c270072eabdc3cd65e47.js"
+  "/husakova_shop_build/precache-manifest.8f51086615e43021c4ca54d1a29db0d0.js"
 );
 
 self.addEventListener('message', (event) => {
