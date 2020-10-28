@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13fb8bf27044b1f0869b9fcd06d8033a",
+    "revision": "6bbff051cce5ab680c242a6192edd8df",
     "url": "/husakova_shop_build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/husakova_shop_build/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "1ee18b062521f4c8570e",
+    "revision": "23e8697e64b911c95197",
     "url": "/husakova_shop_build/static/css/main.0f8efd41.chunk.css"
   },
   {
@@ -20,23 +20,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/husakova_shop_build/static/js/2.a4d32964.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ee18b062521f4c8570e",
-    "url": "/husakova_shop_build/static/js/main.810edf2f.chunk.js"
+    "revision": "23e8697e64b911c95197",
+    "url": "/husakova_shop_build/static/js/main.af28dde4.chunk.js"
   },
   {
     "revision": "06e7271f6fdc0fc2a828",
     "url": "/husakova_shop_build/static/js/runtime-main.9f9242ba.js"
   },
   {
-    "revision": "12f0a70583c279883aa749b3139444f3",
-    "url": "/husakova_shop_build/static/media/kolbasa.12f0a705.jpg"
+    "revision": "14f52c7e9bbdf8eae1e3522bbacbc47b",
+    "url": "/husakova_shop_build/static/media/kolbasa.14f52c7e.jpg"
   },
   {
-    "revision": "46980b8906d36f28e047073b44fb8ab7",
-    "url": "/husakova_shop_build/static/media/spice.46980b89.jpg"
+    "revision": "7386727bb727afa6e6f94a3417e6c409",
+    "url": "/husakova_shop_build/static/media/spice.7386727b.jpg"
   },
   {
-    "revision": "388a3bd5cc648c4fdc691b3ccb79eb42",
-    "url": "/husakova_shop_build/static/media/spices-2.388a3bd5.jpg"
+    "revision": "d805eb74c2fe746fae35a5159b77a49e",
+    "url": "/husakova_shop_build/static/media/spices-2.d805eb74.jpg"
   }
 ]);

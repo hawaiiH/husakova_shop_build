@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/husakova_shop_build/static/css/main.0f8efd41.chunk.css",
-    "main.js": "/husakova_shop_build/static/js/main.810edf2f.chunk.js",
-    "main.js.map": "/husakova_shop_build/static/js/main.810edf2f.chunk.js.map",
+    "main.js": "/husakova_shop_build/static/js/main.af28dde4.chunk.js",
+    "main.js.map": "/husakova_shop_build/static/js/main.af28dde4.chunk.js.map",
     "runtime-main.js": "/husakova_shop_build/static/js/runtime-main.9f9242ba.js",
     "runtime-main.js.map": "/husakova_shop_build/static/js/runtime-main.9f9242ba.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/husakova_shop_build/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.a4d32964.chunk.js": "/husakova_shop_build/static/js/2.a4d32964.chunk.js",
     "static/js/2.a4d32964.chunk.js.map": "/husakova_shop_build/static/js/2.a4d32964.chunk.js.map",
     "index.html": "/husakova_shop_build/index.html",
-    "precache-manifest.16806717112856a8d8a19e01c64d596b.js": "/husakova_shop_build/precache-manifest.16806717112856a8d8a19e01c64d596b.js",
+    "precache-manifest.b4dcac894372c270072eabdc3cd65e47.js": "/husakova_shop_build/precache-manifest.b4dcac894372c270072eabdc3cd65e47.js",
     "service-worker.js": "/husakova_shop_build/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/husakova_shop_build/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.0f8efd41.chunk.css.map": "/husakova_shop_build/static/css/main.0f8efd41.chunk.css.map",
     "static/js/2.a4d32964.chunk.js.LICENSE.txt": "/husakova_shop_build/static/js/2.a4d32964.chunk.js.LICENSE.txt",
-    "static/media/kolbasa.jpg": "/husakova_shop_build/static/media/kolbasa.12f0a705.jpg",
-    "static/media/spice.jpg": "/husakova_shop_build/static/media/spice.46980b89.jpg",
-    "static/media/spices-2.jpg": "/husakova_shop_build/static/media/spices-2.388a3bd5.jpg"
+    "static/media/kolbasa.jpg": "/husakova_shop_build/static/media/kolbasa.14f52c7e.jpg",
+    "static/media/spice.jpg": "/husakova_shop_build/static/media/spice.7386727b.jpg",
+    "static/media/spices-2.jpg": "/husakova_shop_build/static/media/spices-2.d805eb74.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f9242ba.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.a4d32964.chunk.js",
     "static/css/main.0f8efd41.chunk.css",
-    "static/js/main.810edf2f.chunk.js"
+    "static/js/main.af28dde4.chunk.js"
   ]
 }
